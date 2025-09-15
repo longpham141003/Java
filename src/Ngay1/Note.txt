@@ -1,0 +1,7 @@
+# Note Java Ngày 1
+
+**Học hôm nay:**
+- **Mảng:** khai báo, khởi tạo, truy cập phần tử, duyệt bằng for / for-each.
+- **Cú pháp cơ bản:** biến, kiểu dữ liệu, toán tử, `System.out.println`.
+- **Điều kiện:** `if/else`, `switch/case`.
+- **Vòng lặp:** `for`, `while`, `do while`.
