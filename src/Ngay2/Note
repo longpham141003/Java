@@ -1,0 +1,10 @@
+Đã học:
+String: chuỗi ký tự, thao tác .length(), .charAt(), .substring(), .split(), .equals()
+StringBuffer: chuỗi có thể thay đổi, dùng .append(), .delete(), nối nhiều tên/giá trị
+List (ArrayList): lưu danh sách theo thứ tự, cho phép trùng, dùng .add(), .get(), .remove()
+Set (HashSet/TreeSet): lưu danh sách không trùng
+Map (HashMap/TreeMap): lưu key → value
+
+Đã thực hành:
+Quản lý sinh viên: nhập mã, tên, danh sách môn học
+Quản lý sản phẩm: nhập mã, tên, giá, loại
